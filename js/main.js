@@ -311,13 +311,14 @@ const z = 3;
 // remove and replace any element from the array
 // myArray.splice(1 ,1);
 
-const myArrayA = ["A", "B", "C", "D", "E", "F"];
+// const myArrayA = ["A", "B", "C", "D", "E", "F"];
 // const newArray = myArray.slice(2,5);
 
+//reverse and array
 // myArray.reverse();
 
-const newString = myArray.join();
+// const newString = myArray.join();
 
-const newArray = newString.split(",");
+// const newArray = newString.split(",");
 
-console.log(newString);
+// console.log(newString);
